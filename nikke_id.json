@@ -1,0 +1,1486 @@
+[
+    {
+        "nikke_name": "라피",
+        "nikke_id": 10
+    },
+    {
+        "nikke_name": "ㄹㅍ",
+        "nikke_id": 10
+    },
+    {
+        "nikke_name": "네온",
+        "nikke_id": 11
+    },
+    {
+        "nikke_name": "ㄴㅇ",
+        "nikke_id": 11
+    },
+    {
+        "nikke_name": "아니스",
+        "nikke_id": 12
+    },
+    {
+        "nikke_name": "ㅇㄴㅅ",
+        "nikke_id": 12
+    },
+    {
+        "nikke_name": "마리안",
+        "nikke_id": 13
+    },
+    {
+        "nikke_name": "ㅁㄹㅇ",
+        "nikke_id": 13
+    },
+    {
+        "nikke_name": "델타",
+        "nikke_id": 20
+    },
+    {
+        "nikke_name": "ㄷㅌ",
+        "nikke_id": 20
+    },
+    {
+        "nikke_name": "시그널",
+        "nikke_id": 22
+    },
+    {
+        "nikke_name": "ㅅㄱㄴ",
+        "nikke_id": 22
+    },
+    {
+        "nikke_name": "폴리",
+        "nikke_id": 30
+    },
+    {
+        "nikke_name": "ㅍㄹ",
+        "nikke_id": 30
+    },
+    {
+        "nikke_name": "미란다",
+        "nikke_id": 32
+    },
+    {
+        "nikke_name": "ㅁㄹㄷ",
+        "nikke_id": 32
+    },
+    {
+        "nikke_name": "벨로타",
+        "nikke_id": 60
+    },
+    {
+        "nikke_name": "ㅂㄹㅌ",
+        "nikke_id": 60
+    },
+    {
+        "nikke_name": "미카",
+        "nikke_id": 61
+    },
+    {
+        "nikke_name": "ㅁㅋ",
+        "nikke_id": 61
+    },
+    {
+        "nikke_name": "브리드",
+        "nikke_id": 70
+    },
+    {
+        "nikke_name": "ㅂㄹㄷ",
+        "nikke_id": 70
+    },
+    {
+        "nikke_name": "솔린",
+        "nikke_id": 71
+    },
+    {
+        "nikke_name": "ㅅㄹ",
+        "nikke_id": 71
+    },
+    {
+        "nikke_name": "디젤",
+        "nikke_id": 72
+    },
+    {
+        "nikke_name": "ㄷㅈ",
+        "nikke_id": 72
+    },
+    {
+        "nikke_name": "센티",
+        "nikke_id": 80
+    },
+    {
+        "nikke_name": "ㅅㅌ",
+        "nikke_id": 80
+    },
+    {
+        "nikke_name": "리타",
+        "nikke_id": 82
+    },
+    {
+        "nikke_name": "ㄹㅌ",
+        "nikke_id": 82
+    },
+    {
+        "nikke_name": "엠마",
+        "nikke_id": 90
+    },
+    {
+        "nikke_name": "ㅇㅁ",
+        "nikke_id": 90
+    },
+    {
+        "nikke_name": "베스티",
+        "nikke_id": 91
+    },
+    {
+        "nikke_name": "ㅂㅅㅌ",
+        "nikke_id": 91
+    },
+    {
+        "nikke_name": "은화",
+        "nikke_id": 92
+    },
+    {
+        "nikke_name": "ㅇㅎ",
+        "nikke_id": 92
+    },
+    {
+        "nikke_name": "드레이크",
+        "nikke_id": 101
+    },
+    {
+        "nikke_name": "ㄷㄹㅇㅋ",
+        "nikke_id": 101
+    },
+    {
+        "nikke_name": "맥스웰",
+        "nikke_id": 102
+    },
+    {
+        "nikke_name": "ㅁㅅㅇ",
+        "nikke_id": 102
+    },
+    {
+        "nikke_name": "크로우",
+        "nikke_id": 110
+    },
+    {
+        "nikke_name": "ㅋㄹㅇ",
+        "nikke_id": 110
+    },
+    {
+        "nikke_name": "n102",
+        "nikke_id": 120
+    },
+    {
+        "nikke_name": "메어리",
+        "nikke_id": 130
+    },
+    {
+        "nikke_name": "ㅁㅇㄹ",
+        "nikke_id": 130
+    },
+    {
+        "nikke_name": "페퍼",
+        "nikke_id": 131
+    },
+    {
+        "nikke_name": "ㅍㅍ",
+        "nikke_id": 131
+    },
+    {
+        "nikke_name": "슈가",
+        "nikke_id": 140
+    },
+    {
+        "nikke_name": "ㅅㄱ",
+        "nikke_id": 140
+    },
+    {
+        "nikke_name": "밀크",
+        "nikke_id": 141
+    },
+    {
+        "nikke_name": "ㅁㅋ",
+        "nikke_id": 141
+    },
+    {
+        "nikke_name": "프림",
+        "nikke_id": 142
+    },
+    {
+        "nikke_name": "ㅍㄹ",
+        "nikke_id": 142
+    },
+    {
+        "nikke_name": "율리아",
+        "nikke_id": 150
+    },
+    {
+        "nikke_name": "ㅇㄹㅇ",
+        "nikke_id": 150
+    },
+    {
+        "nikke_name": "유니",
+        "nikke_id": 160
+    },
+    {
+        "nikke_name": "ㅇㄴ",
+        "nikke_id": 160
+    },
+    {
+        "nikke_name": "미하라",
+        "nikke_id": 161
+    },
+    {
+        "nikke_name": "ㅁㅎㄹ",
+        "nikke_id": 161
+    },
+    {
+        "nikke_name": "프리바티",
+        "nikke_id": 170
+    },
+    {
+        "nikke_name": "ㅍㄹㅂㅌ",
+        "nikke_id": 170
+    },
+    {
+        "nikke_name": "율하",
+        "nikke_id": 171
+    },
+    {
+        "nikke_name": "ㅇㅎ",
+        "nikke_id": 171
+    },
+    {
+        "nikke_name": "애드미",
+        "nikke_id": 172
+    },
+    {
+        "nikke_name": "ㅇㄷㅁ",
+        "nikke_id": 172
+    },
+    {
+        "nikke_name": "길로틴",
+        "nikke_id": 180
+    },
+    {
+        "nikke_name": "ㄱㄹㅌ",
+        "nikke_id": 180
+    },
+    {
+        "nikke_name": "메이든",
+        "nikke_id": 181
+    },
+    {
+        "nikke_name": "ㅁㅇㄷ",
+        "nikke_id": 181
+    },
+    {
+        "nikke_name": "루드밀라",
+        "nikke_id": 190
+    },
+    {
+        "nikke_name": "ㄹㄷㅁㄹ",
+        "nikke_id": 190
+    },
+    {
+        "nikke_name": "앨리스",
+        "nikke_id": 191
+    },
+    {
+        "nikke_name": "ㅇㄹㅅ",
+        "nikke_id": 191
+    },
+    {
+        "nikke_name": "루피",
+        "nikke_id": 200
+    },
+    {
+        "nikke_name": "ㄹㅍ",
+        "nikke_id": 200
+    },
+    {
+        "nikke_name": "얀",
+        "nikke_id": 201
+    },
+    {
+        "nikke_name": "ㅇ",
+        "nikke_id": 201
+    },
+    {
+        "nikke_name": "도라",
+        "nikke_id": 202
+    },
+    {
+        "nikke_name": "ㄷㄹ",
+        "nikke_id": 202
+    },
+    {
+        "nikke_name": "엑시아",
+        "nikke_id": 210
+    },
+    {
+        "nikke_name": "ㅇㅅㅇ",
+        "nikke_id": 210
+    },
+    {
+        "nikke_name": "노벨",
+        "nikke_id": 212
+    },
+    {
+        "nikke_name": "ㄴㅂ",
+        "nikke_id": 212
+    },
+    {
+        "nikke_name": "에피넬",
+        "nikke_id": 241
+    },
+    {
+        "nikke_name": "ㅇㅍㄴ",
+        "nikke_id": 241
+    },
+    {
+        "nikke_name": "폴크방",
+        "nikke_id": 242
+    },
+    {
+        "nikke_name": "ㅍㅋㅂ",
+        "nikke_id": 242
+    },
+    {
+        "nikke_name": "스노우 화이트",
+        "nikke_id": 220
+    },
+    {
+        "nikke_name": "ㅅㄴㅇ ㅎㅇㅌ",
+        "nikke_id": 220
+    },
+    {
+        "nikke_name": "라푼젤",
+        "nikke_id": 221
+    },
+    {
+        "nikke_name": "ㄹㅍㅈ",
+        "nikke_id": 221
+    },
+    {
+        "nikke_name": "홍련",
+        "nikke_id": 222
+    },
+    {
+        "nikke_name": "ㅎㄹ",
+        "nikke_id": 222
+    },
+    {
+        "nikke_name": "하란",
+        "nikke_id": 230
+    },
+    {
+        "nikke_name": "ㅎㄹ",
+        "nikke_id": 230
+    },
+    {
+        "nikke_name": "이사벨",
+        "nikke_id": 231
+    },
+    {
+        "nikke_name": "ㅇㅅㅂ",
+        "nikke_id": 231
+    },
+    {
+        "nikke_name": "노아",
+        "nikke_id": 232
+    },
+    {
+        "nikke_name": "ㄴㅇ",
+        "nikke_id": 232
+    },
+    {
+        "nikke_name": "모더니아",
+        "nikke_id": 260
+    },
+    {
+        "nikke_name": "ㅁㄷㄴㅇ",
+        "nikke_id": 260
+    },
+    {
+        "nikke_name": "에테르",
+        "nikke_id": 291
+    },
+    {
+        "nikke_name": "ㅇㅌㄹ",
+        "nikke_id": 291
+    },
+    {
+        "nikke_name": "솔져 e.g.",
+        "nikke_id": 300
+    },
+    {
+        "nikke_name": "ㅅㅈ e.g.",
+        "nikke_id": 300
+    },
+    {
+        "nikke_name": "솔져 f.a.",
+        "nikke_id": 301
+    },
+    {
+        "nikke_name": "ㅅㅈ f.a.",
+        "nikke_id": 301
+    },
+    {
+        "nikke_name": "프로덕트 08",
+        "nikke_id": 302
+    },
+    {
+        "nikke_name": "ㅍㄹㄷㅌ 08",
+        "nikke_id": 302
+    },
+    {
+        "nikke_name": "프로덕트 12",
+        "nikke_id": 303
+    },
+    {
+        "nikke_name": "ㅍㄹㄷㅌ 12",
+        "nikke_id": 303
+    },
+    {
+        "nikke_name": "idoll 플라워",
+        "nikke_id": 304
+    },
+    {
+        "nikke_name": "idoll ㅍㄹㅇ",
+        "nikke_id": 304
+    },
+    {
+        "nikke_name": "idoll 오션",
+        "nikke_id": 305
+    },
+    {
+        "nikke_name": "idoll ㅇㅅ",
+        "nikke_id": 305
+    },
+    {
+        "nikke_name": "솔져 o.w.",
+        "nikke_id": 306
+    },
+    {
+        "nikke_name": "ㅅㅈ o.w.",
+        "nikke_id": 306
+    },
+    {
+        "nikke_name": "프로덕트 23",
+        "nikke_id": 307
+    },
+    {
+        "nikke_name": "ㅍㄹㄷㅌ 23",
+        "nikke_id": 307
+    },
+    {
+        "nikke_name": "idoll 썬",
+        "nikke_id": 308
+    },
+    {
+        "nikke_name": "idoll ㅆ",
+        "nikke_id": 308
+    },
+    {
+        "nikke_name": "라플라스",
+        "nikke_id": 100
+    },
+    {
+        "nikke_name": "ㄹㅍㄹㅅ",
+        "nikke_id": 100
+    },
+    {
+        "nikke_name": "마나",
+        "nikke_id": 290
+    },
+    {
+        "nikke_name": "ㅁㄴ",
+        "nikke_id": 290
+    },
+    {
+        "nikke_name": "루마니",
+        "nikke_id": 240
+    },
+    {
+        "nikke_name": "ㄹㅁㄴ",
+        "nikke_id": 240
+    },
+    {
+        "nikke_name": "자칼",
+        "nikke_id": 111
+    },
+    {
+        "nikke_name": "ㅈㅋ",
+        "nikke_id": 111
+    },
+    {
+        "nikke_name": "바이퍼",
+        "nikke_id": 112
+    },
+    {
+        "nikke_name": "ㅂㅇㅍ",
+        "nikke_id": 112
+    },
+    {
+        "nikke_name": "잉그리드",
+        "nikke_id": 900
+    },
+    {
+        "nikke_name": "ㅇㄱㄹㄷ",
+        "nikke_id": 900
+    },
+    {
+        "nikke_name": "슈엔",
+        "nikke_id": 901
+    },
+    {
+        "nikke_name": "ㅅㅇ",
+        "nikke_id": 901
+    },
+    {
+        "nikke_name": "머스탱",
+        "nikke_id": 902
+    },
+    {
+        "nikke_name": "ㅁㅅㅌ",
+        "nikke_id": 902
+    },
+    {
+        "nikke_name": "엔더슨",
+        "nikke_id": 903
+    },
+    {
+        "nikke_name": "ㅇㄷㅅ",
+        "nikke_id": 903
+    },
+    {
+        "nikke_name": "에닉",
+        "nikke_id": 904
+    },
+    {
+        "nikke_name": "ㅇㄴ",
+        "nikke_id": 904
+    },
+    {
+        "nikke_name": "리안",
+        "nikke_id": 905
+    },
+    {
+        "nikke_name": "ㄹㅇ",
+        "nikke_id": 905
+    },
+    {
+        "nikke_name": "시프티",
+        "nikke_id": 907
+    },
+    {
+        "nikke_name": "ㅅㅍㅌ",
+        "nikke_id": 907
+    },
+    {
+        "nikke_name": "파피용",
+        "nikke_id": 908
+    },
+    {
+        "nikke_name": "ㅍㅍㅇ",
+        "nikke_id": 908
+    },
+    {
+        "nikke_name": "버닝엄",
+        "nikke_id": 909
+    },
+    {
+        "nikke_name": "ㅂㄴㅇ",
+        "nikke_id": 909
+    },
+    {
+        "nikke_name": "홀로그램",
+        "nikke_id": 910
+    },
+    {
+        "nikke_name": "ㅎㄹㄱㄹ",
+        "nikke_id": 910
+    },
+    {
+        "nikke_name": "성인남자",
+        "nikke_id": 911
+    },
+    {
+        "nikke_name": "ㅅㅇㄴㅈ",
+        "nikke_id": 911
+    },
+    {
+        "nikke_name": "성인여자",
+        "nikke_id": 912
+    },
+    {
+        "nikke_name": "ㅅㅇㅇㅈ",
+        "nikke_id": 912
+    },
+    {
+        "nikke_name": "소녀",
+        "nikke_id": 913
+    },
+    {
+        "nikke_name": "ㅅㄴ",
+        "nikke_id": 913
+    },
+    {
+        "nikke_name": "토커티브",
+        "nikke_id": 914
+    },
+    {
+        "nikke_name": "ㅌㅋㅌㅂ",
+        "nikke_id": 914
+    },
+    {
+        "nikke_name": "모더니아",
+        "nikke_id": 915
+    },
+    {
+        "nikke_name": "ㅁㄷㄴㅇ",
+        "nikke_id": 915
+    },
+    {
+        "nikke_name": "요한",
+        "nikke_id": 925
+    },
+    {
+        "nikke_name": "ㅇㅎ",
+        "nikke_id": 925
+    },
+    {
+        "nikke_name": "숀",
+        "nikke_id": 926
+    },
+    {
+        "nikke_name": "ㅅ",
+        "nikke_id": 926
+    },
+    {
+        "nikke_name": "채드",
+        "nikke_id": 927
+    },
+    {
+        "nikke_name": "ㅊㄷ",
+        "nikke_id": 927
+    },
+    {
+        "nikke_name": "잉크",
+        "nikke_id": 928
+    },
+    {
+        "nikke_name": "ㅇㅋ",
+        "nikke_id": 928
+    },
+    {
+        "nikke_name": "세실",
+        "nikke_id": 929
+    },
+    {
+        "nikke_name": "ㅅㅅ",
+        "nikke_id": 929
+    },
+    {
+        "nikke_name": "e.h.",
+        "nikke_id": 930
+    },
+    {
+        "nikke_name": "도반",
+        "nikke_id": 931
+    },
+    {
+        "nikke_name": "ㄷㅂ",
+        "nikke_id": 931
+    },
+    {
+        "nikke_name": "진",
+        "nikke_id": 932
+    },
+    {
+        "nikke_name": "ㅈ",
+        "nikke_id": 932
+    },
+    {
+        "nikke_name": "릴리바이스",
+        "nikke_id": 933
+    },
+    {
+        "nikke_name": "ㄹㄹㅂㅇㅅ",
+        "nikke_id": 933
+    },
+    {
+        "nikke_name": "피나",
+        "nikke_id": 934
+    },
+    {
+        "nikke_name": "ㅍㄴ",
+        "nikke_id": 934
+    },
+    {
+        "nikke_name": "오스왈드",
+        "nikke_id": 935
+    },
+    {
+        "nikke_name": "ㅇㅅㅇㄷ",
+        "nikke_id": 935
+    },
+    {
+        "nikke_name": "레드 후드",
+        "nikke_id": 470
+    },
+    {
+        "nikke_name": "ㄹㄷ ㅎㄷ",
+        "nikke_id": 470
+    },
+    {
+        "nikke_name": "장화",
+        "nikke_id": 971
+    },
+    {
+        "nikke_name": "ㅈㅎ",
+        "nikke_id": 971
+    },
+    {
+        "nikke_name": "메어리 : 베이 갓데스",
+        "nikke_id": 132
+    },
+    {
+        "nikke_name": "ㅁㅇㄹ : ㅂㅇ ㄱㄷㅅ",
+        "nikke_id": 132
+    },
+    {
+        "nikke_name": "크라운",
+        "nikke_id": 330
+    },
+    {
+        "nikke_name": "ㅋㄹㅇ",
+        "nikke_id": 330
+    },
+    {
+        "nikke_name": "헬름",
+        "nikke_id": 352
+    },
+    {
+        "nikke_name": "ㅎㄹ",
+        "nikke_id": 352
+    },
+    {
+        "nikke_name": "밀리",
+        "nikke_id": 360
+    },
+    {
+        "nikke_name": "ㅁㄹ",
+        "nikke_id": 360
+    },
+    {
+        "nikke_name": "네로",
+        "nikke_id": 380
+    },
+    {
+        "nikke_name": "ㄴㄹ",
+        "nikke_id": 380
+    },
+    {
+        "nikke_name": "라이",
+        "nikke_id": 392
+    },
+    {
+        "nikke_name": "ㄹㅇ",
+        "nikke_id": 392
+    },
+    {
+        "nikke_name": "아리아",
+        "nikke_id": 432
+    },
+    {
+        "nikke_name": "ㅇㄹㅇ",
+        "nikke_id": 432
+    },
+    {
+        "nikke_name": "네온 : 블루 오션",
+        "nikke_id": 14
+    },
+    {
+        "nikke_name": "ㄴㅇ : ㅂㄹ ㅇㅅ",
+        "nikke_id": 14
+    },
+    {
+        "nikke_name": "나유타",
+        "nikke_id": 223
+    },
+    {
+        "nikke_name": "ㄴㅇㅌ",
+        "nikke_id": 223
+    },
+    {
+        "nikke_name": "리프",
+        "nikke_id": 410
+    },
+    {
+        "nikke_name": "ㄹㅍ",
+        "nikke_id": 410
+    },
+    {
+        "nikke_name": "노이즈",
+        "nikke_id": 430
+    },
+    {
+        "nikke_name": "ㄴㅇㅈ",
+        "nikke_id": 430
+    },
+    {
+        "nikke_name": "볼륨",
+        "nikke_id": 431
+    },
+    {
+        "nikke_name": "ㅂㄹ",
+        "nikke_id": 431
+    },
+    {
+        "nikke_name": "블랑",
+        "nikke_id": 270
+    },
+    {
+        "nikke_name": "ㅂㄹ",
+        "nikke_id": 270
+    },
+    {
+        "nikke_name": "누아르",
+        "nikke_id": 271
+    },
+    {
+        "nikke_name": "ㄴㅇㄹ",
+        "nikke_id": 271
+    },
+    {
+        "nikke_name": "d",
+        "nikke_id": 40
+    },
+    {
+        "nikke_name": "k",
+        "nikke_id": 41
+    },
+    {
+        "nikke_name": "사쿠라",
+        "nikke_id": 282
+    },
+    {
+        "nikke_name": "ㅅㅋㄹ",
+        "nikke_id": 282
+    },
+    {
+        "nikke_name": "목단",
+        "nikke_id": 281
+    },
+    {
+        "nikke_name": "ㅁㄷ",
+        "nikke_id": 281
+    },
+    {
+        "nikke_name": "로산나",
+        "nikke_id": 280
+    },
+    {
+        "nikke_name": "ㄹㅅㄴ",
+        "nikke_id": 280
+    },
+    {
+        "nikke_name": "에이드",
+        "nikke_id": 310
+    },
+    {
+        "nikke_name": "ㅇㅇㄷ",
+        "nikke_id": 310
+    },
+    {
+        "nikke_name": "비블리",
+        "nikke_id": 320
+    },
+    {
+        "nikke_name": "ㅂㅂㄹ",
+        "nikke_id": 320
+    },
+    {
+        "nikke_name": "마르차나",
+        "nikke_id": 321
+    },
+    {
+        "nikke_name": "ㅁㄹㅊㄴ",
+        "nikke_id": 321
+    },
+    {
+        "nikke_name": "루주",
+        "nikke_id": 272
+    },
+    {
+        "nikke_name": "ㄹㅈ",
+        "nikke_id": 272
+    },
+    {
+        "nikke_name": "코코아",
+        "nikke_id": 311
+    },
+    {
+        "nikke_name": "ㅋㅋㅇ",
+        "nikke_id": 311
+    },
+    {
+        "nikke_name": "소다",
+        "nikke_id": 312
+    },
+    {
+        "nikke_name": "ㅅㄷ",
+        "nikke_id": 312
+    },
+    {
+        "nikke_name": "차임",
+        "nikke_id": 331
+    },
+    {
+        "nikke_name": "ㅊㅇ",
+        "nikke_id": 331
+    },
+    {
+        "nikke_name": "킬로",
+        "nikke_id": 361
+    },
+    {
+        "nikke_name": "ㅋㄹ",
+        "nikke_id": 361
+    },
+    {
+        "nikke_name": "비스킷",
+        "nikke_id": 381
+    },
+    {
+        "nikke_name": "ㅂㅅㅋ",
+        "nikke_id": 381
+    },
+    {
+        "nikke_name": "길티",
+        "nikke_id": 400
+    },
+    {
+        "nikke_name": "ㄱㅌ",
+        "nikke_id": 400
+    },
+    {
+        "nikke_name": "니힐리스타",
+        "nikke_id": 261
+    },
+    {
+        "nikke_name": "ㄴㅎㄹㅅㅌ",
+        "nikke_id": 261
+    },
+    {
+        "nikke_name": "사이렌",
+        "nikke_id": 340
+    },
+    {
+        "nikke_name": "ㅅㅇㄹ",
+        "nikke_id": 340
+    },
+    {
+        "nikke_name": "핀",
+        "nikke_id": 342
+    },
+    {
+        "nikke_name": "ㅍ",
+        "nikke_id": 342
+    },
+    {
+        "nikke_name": "신",
+        "nikke_id": 401
+    },
+    {
+        "nikke_name": "ㅅ",
+        "nikke_id": 401
+    },
+    {
+        "nikke_name": "엔드리스",
+        "nikke_id": 371
+    },
+    {
+        "nikke_name": "ㅇㄷㄹㅅ",
+        "nikke_id": 371
+    },
+    {
+        "nikke_name": "도로시",
+        "nikke_id": 233
+    },
+    {
+        "nikke_name": "ㄷㄹㅅ",
+        "nikke_id": 233
+    },
+    {
+        "nikke_name": "리버렐리오",
+        "nikke_id": 262
+    },
+    {
+        "nikke_name": "ㄹㅂㄹㄹㅇ",
+        "nikke_id": 262
+    },
+    {
+        "nikke_name": "앵커",
+        "nikke_id": 351
+    },
+    {
+        "nikke_name": "ㅇㅋ",
+        "nikke_id": 351
+    },
+    {
+        "nikke_name": "에이커",
+        "nikke_id": 81
+    },
+    {
+        "nikke_name": "ㅇㅇㅋ",
+        "nikke_id": 81
+    },
+    {
+        "nikke_name": "에스",
+        "nikke_id": 42
+    },
+    {
+        "nikke_name": "ㅇㅅ",
+        "nikke_id": 42
+    },
+    {
+        "nikke_name": "아인",
+        "nikke_id": 391
+    },
+    {
+        "nikke_name": "ㅇㅇ",
+        "nikke_id": 391
+    },
+    {
+        "nikke_name": "츠바이",
+        "nikke_id": 390
+    },
+    {
+        "nikke_name": "ㅊㅂㅇ",
+        "nikke_id": 390
+    },
+    {
+        "nikke_name": "퀀시",
+        "nikke_id": 402
+    },
+    {
+        "nikke_name": "ㅋㅅ",
+        "nikke_id": 402
+    },
+    {
+        "nikke_name": "마스트",
+        "nikke_id": 350
+    },
+    {
+        "nikke_name": "ㅁㅅㅌ",
+        "nikke_id": 350
+    },
+    {
+        "nikke_name": "피아",
+        "nikke_id": 151
+    },
+    {
+        "nikke_name": "ㅍㅇ",
+        "nikke_id": 151
+    },
+    {
+        "nikke_name": "토브",
+        "nikke_id": 192
+    },
+    {
+        "nikke_name": "ㅌㅂ",
+        "nikke_id": 192
+    },
+    {
+        "nikke_name": "키리",
+        "nikke_id": 33
+    },
+    {
+        "nikke_name": "ㅋㄹ",
+        "nikke_id": 33
+    },
+    {
+        "nikke_name": "포르테",
+        "nikke_id": 152
+    },
+    {
+        "nikke_name": "ㅍㄹㅌ",
+        "nikke_id": 152
+    },
+    {
+        "nikke_name": "네베",
+        "nikke_id": 193
+    },
+    {
+        "nikke_name": "ㄴㅂ",
+        "nikke_id": 193
+    },
+    {
+        "nikke_name": "앤 : 미라클 페어리",
+        "nikke_id": 121
+    },
+    {
+        "nikke_name": "ㅇ : ㅁㄹㅋ ㅍㅇㄹ",
+        "nikke_id": 121
+    },
+    {
+        "nikke_name": "액스",
+        "nikke_id": 341
+    },
+    {
+        "nikke_name": "ㅇㅅ",
+        "nikke_id": 341
+    },
+    {
+        "nikke_name": "루피 : 윈터 쇼퍼",
+        "nikke_id": 203
+    },
+    {
+        "nikke_name": "ㄹㅍ : ㅇㅌ ㅅㅍ",
+        "nikke_id": 203
+    },
+    {
+        "nikke_name": "소마",
+        "nikke_id": 292
+    },
+    {
+        "nikke_name": "ㅅㅁ",
+        "nikke_id": 292
+    },
+    {
+        "nikke_name": "레오나",
+        "nikke_id": 382
+    },
+    {
+        "nikke_name": "ㄹㅇㄴ",
+        "nikke_id": 382
+    },
+    {
+        "nikke_name": "아니스 : 스파클링 서머",
+        "nikke_id": 15
+    },
+    {
+        "nikke_name": "ㅇㄴㅅ : ㅅㅍㅋㄹ ㅅㅁ",
+        "nikke_id": 15
+    },
+    {
+        "nikke_name": "헬름 : 아쿠아마린",
+        "nikke_id": 353
+    },
+    {
+        "nikke_name": "ㅎㄹ : ㅇㅋㅇㅁㄹ",
+        "nikke_id": 353
+    },
+    {
+        "nikke_name": "티아",
+        "nikke_id": 451
+    },
+    {
+        "nikke_name": "ㅌㅇ",
+        "nikke_id": 451
+    },
+    {
+        "nikke_name": "나가",
+        "nikke_id": 450
+    },
+    {
+        "nikke_name": "ㄴㄱ",
+        "nikke_id": 450
+    },
+    {
+        "nikke_name": "스노우 화이트 : 이노센트 데이즈",
+        "nikke_id": 224
+    },
+    {
+        "nikke_name": "ㅅㄴㅇ ㅎㅇㅌ : ㅇㄴㅅㅌ ㄷㅇㅈ",
+        "nikke_id": 224
+    },
+    {
+        "nikke_name": "루드밀라 : 윈터 오너",
+        "nikke_id": 194
+    },
+    {
+        "nikke_name": "ㄹㄷㅁㄹ : ㅇㅌ ㅇㄴ",
+        "nikke_id": 194
+    },
+    {
+        "nikke_name": "미카 : 스노우 버디",
+        "nikke_id": 62
+    },
+    {
+        "nikke_name": "ㅁㅋ : ㅅㄴㅇ ㅂㄷ",
+        "nikke_id": 62
+    },
+    {
+        "nikke_name": "홍련 : 흑영",
+        "nikke_id": 225
+    },
+    {
+        "nikke_name": "ㅎㄹ : ㅎㅇ",
+        "nikke_id": 225
+    },
+    {
+        "nikke_name": "프리바티 : 언카인드 메이드",
+        "nikke_id": 313
+    },
+    {
+        "nikke_name": "ㅍㄹㅂㅌ : ㅇㅋㅇㄷ ㅁㅇㄷ",
+        "nikke_id": 313
+    },
+    {
+        "nikke_name": "일레그",
+        "nikke_id": 500
+    },
+    {
+        "nikke_name": "ㅇㄹㄱ",
+        "nikke_id": 500
+    },
+    {
+        "nikke_name": "트로니",
+        "nikke_id": 501
+    },
+    {
+        "nikke_name": "ㅌㄹㄴ",
+        "nikke_id": 501
+    },
+    {
+        "nikke_name": "리버린",
+        "nikke_id": 480
+    },
+    {
+        "nikke_name": "ㄹㅂㄹ",
+        "nikke_id": 480
+    },
+    {
+        "nikke_name": "해머링",
+        "nikke_id": 490
+    },
+    {
+        "nikke_name": "ㅎㅁㄹ",
+        "nikke_id": 490
+    },
+    {
+        "nikke_name": "그레이브",
+        "nikke_id": 510
+    },
+    {
+        "nikke_name": "ㄱㄹㅇㅂ",
+        "nikke_id": 510
+    },
+    {
+        "nikke_name": "렘",
+        "nikke_id": 820
+    },
+    {
+        "nikke_name": "ㄹ",
+        "nikke_id": 820
+    },
+    {
+        "nikke_name": "에밀리아",
+        "nikke_id": 821
+    },
+    {
+        "nikke_name": "ㅇㅁㄹㅇ",
+        "nikke_id": 821
+    },
+    {
+        "nikke_name": "람",
+        "nikke_id": 822
+    },
+    {
+        "nikke_name": "ㄹ",
+        "nikke_id": 822
+    },
+    {
+        "nikke_name": "플로라",
+        "nikke_id": 411
+    },
+    {
+        "nikke_name": "ㅍㄹㄹ",
+        "nikke_id": 411
+    },
+    {
+        "nikke_name": "d : 킬러 와이프",
+        "nikke_id": 43
+    },
+    {
+        "nikke_name": "d : ㅋㄹ ㅇㅇㅍ",
+        "nikke_id": 43
+    },
+    {
+        "nikke_name": "베이",
+        "nikke_id": 550
+    },
+    {
+        "nikke_name": "ㅂㅇ",
+        "nikke_id": 550
+    },
+    {
+        "nikke_name": "클레이",
+        "nikke_id": 551
+    },
+    {
+        "nikke_name": "ㅋㄹㅇ",
+        "nikke_id": 551
+    },
+    {
+        "nikke_name": "프레자일",
+        "nikke_id": 481
+    },
+    {
+        "nikke_name": "ㅍㄹㅈㅇ",
+        "nikke_id": 481
+    },
+    {
+        "nikke_name": "드릴리",
+        "nikke_id": 491
+    },
+    {
+        "nikke_name": "ㄷㄹㄹ",
+        "nikke_id": 491
+    },
+    {
+        "nikke_name": "아크레인저 블랙",
+        "nikke_id": 570
+    },
+    {
+        "nikke_name": "ㅇㅋㄹㅇㅈ ㅂㄹ",
+        "nikke_id": 570
+    },
+    {
+        "nikke_name": "소다 : 트윙클링 바니",
+        "nikke_id": 314
+    },
+    {
+        "nikke_name": "ㅅㄷ : ㅌㅇㅋㄹ ㅂㄴ",
+        "nikke_id": 314
+    },
+    {
+        "nikke_name": "앨리스 : 원더랜드 바니",
+        "nikke_id": 195
+    },
+    {
+        "nikke_name": "ㅇㄹㅅ : ㅇㄷㄹㄷ ㅂㄴ",
+        "nikke_id": 195
+    },
+    {
+        "nikke_name": "로산나 : 시크 오션",
+        "nikke_id": 283
+    },
+    {
+        "nikke_name": "ㄹㅅㄴ : ㅅㅋ ㅇㅅ",
+        "nikke_id": 283
+    },
+    {
+        "nikke_name": "사쿠라 : 블룸 인 서머",
+        "nikke_id": 284
+    },
+    {
+        "nikke_name": "ㅅㅋㄹ : ㅂㄹ ㅇ ㅅㅁ",
+        "nikke_id": 284
+    },
+    {
+        "nikke_name": "베히모스",
+        "nikke_id": 560
+    },
+    {
+        "nikke_name": "ㅂㅎㅁㅅ",
+        "nikke_id": 560
+    },
+    {
+        "nikke_name": "레비아탄",
+        "nikke_id": 562
+    },
+    {
+        "nikke_name": "ㄹㅂㅇㅌ",
+        "nikke_id": 562
+    },
+    {
+        "nikke_name": "신데렐라",
+        "nikke_id": 511
+    },
+    {
+        "nikke_name": "ㅅㄷㄹㄹ",
+        "nikke_id": 511
+    },
+    {
+        "nikke_name": "아스카",
+        "nikke_id": 830
+    },
+    {
+        "nikke_name": "ㅇㅅㅋ",
+        "nikke_id": 830
+    },
+    {
+        "nikke_name": "레이",
+        "nikke_id": 831
+    },
+    {
+        "nikke_name": "ㄹㅇ",
+        "nikke_id": 831
+    },
+    {
+        "nikke_name": "마리",
+        "nikke_id": 832
+    },
+    {
+        "nikke_name": "ㅁㄹ",
+        "nikke_id": 832
+    },
+    {
+        "nikke_name": "미사토",
+        "nikke_id": 833
+    },
+    {
+        "nikke_name": "ㅁㅅㅌ",
+        "nikke_id": 833
+    },
+    {
+        "nikke_name": "마키마",
+        "nikke_id": 800
+    },
+    {
+        "nikke_name": "ㅁㅋㅁ",
+        "nikke_id": 800
+    },
+    {
+        "nikke_name": "파워",
+        "nikke_id": 801
+    },
+    {
+        "nikke_name": "ㅍㅇ",
+        "nikke_id": 801
+    },
+    {
+        "nikke_name": "히메노",
+        "nikke_id": 802
+    },
+    {
+        "nikke_name": "ㅎㅁㄴ",
+        "nikke_id": 802
+    },
+    {
+        "nikke_name": "2b",
+        "nikke_id": 810
+    },
+    {
+        "nikke_name": "a2",
+        "nikke_id": 811
+    },
+    {
+        "nikke_name": "파스칼",
+        "nikke_id": 812
+    },
+    {
+        "nikke_name": "ㅍㅅㅋ",
+        "nikke_id": 812
+    },
+    {
+        "nikke_name": "777",
+        "nikke_id": 777
+    }
+]
