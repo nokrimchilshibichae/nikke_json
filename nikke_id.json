@@ -1265,11 +1265,11 @@
     },
     {
         "nikke_name": "그레이브",
-        "nikke_id": 510
+        "nikke_id": 514
     },
     {
         "nikke_name": "ㄱㄹㅇㅂ",
-        "nikke_id": 510
+        "nikke_id": 514
     },
     {
         "nikke_name": "렘",
@@ -1498,5 +1498,13 @@
     {
         "nikke_name": "ㅍㅌ",
         "nikke_id": 580
+    },
+    {
+        "nikke_name": "신데렐라",
+        "nikke_id": 511
+    },
+    {
+        "nikke_name": "ㅅㄷㄹㄹ",
+        "nikke_id": 511
     }
 ]
